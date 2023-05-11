@@ -1,0 +1,26 @@
+.item{
+    display: none;
+}
+
+.active{
+    display:flex;
+    flex-direction: column;
+    align-items:center;
+}
+
+.main img{
+    width: 50%;
+}
+
+.container {
+    border: 3px solid black;
+    border-radius: 40px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    background-color: lightblue;
+}
